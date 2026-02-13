@@ -1,0 +1,87 @@
+hello//
+
+
+// git init -b main  used to create a new git repository with main branch 
+
+// readme.md md means markdown language 
+
+// Clone - To copy a repository from GitHub to your local machine
+>> git clone <repository-url>
+
+// ls -a means list all files including hidden files
+>> ls -a
+>> ls -Force for power shell
+
+
+// status means show the status of the repository
+>> git status
+
+// modify > add > commit > push
+
+// head means the latest commit
+
+// git status has 4 typess
+
+// 1. untracked - files that are not tracked by git
+// 2. modified - files that are changed but not staged for commit
+// 3. staged - files that are ready to be commited 
+// 4. unmodified - files that are unchanged 
+
+
+// staged means files that are ready to be commited 
+
+// add - adds new or changed files in your working directory to the Git stating area
+>> git add <filename>
+
+// to add all the files use 
+>> git add .
+
+// commit - saves changes to the local repository with a descriptive message
+>> git commit -m "commit message"
+
+// push - uploads your local commits to a remote repository for sharing 
+>> git push origin main
+
+// git log - shows the commit history of the repository
+>> git log
+
+// git diff - shows the changes between the working directory and the staging area
+>> git diff
+
+// delete a filename
+>> git rm --cached <filename>
+
+
+----------------------------------------------
+
+// create a new repo in command line
+
+
+// echo "# hello ">> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.
+// git push -u origin main
+
+-----------------------------------
+
+// how to push local repository to github 
+
+
+
+
+
+
+
+
+
+// init - used to create a new git repository
+
+>> git init
+
+
+
+
+
