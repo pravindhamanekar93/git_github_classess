@@ -73,6 +73,7 @@ hello//
 // git tag -a v1.0 -m "version 1.0
 // git tag
 // git show v1.0
+// push
 
 
 
