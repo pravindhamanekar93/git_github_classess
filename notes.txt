@@ -86,11 +86,16 @@ hello//
 // 3. git switch -c <branch-name> # latest versio 
 
 // git branch is used to know how many branches are there in the repository
+// git branch -all also be used to know all the barnches including remote branches
 
 // to switch between branches use
 // git switch <branch-name> or
 // git checkout <branch-name>
 
+// <git switch -> =means switches to previous branch
+
+// to delete a branch
+// git branch -d <branch-name>
 
 
 
