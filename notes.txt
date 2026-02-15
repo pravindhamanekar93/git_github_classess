@@ -100,6 +100,12 @@ hello//
 // to push a branch
 // git push origin <branch-name>
 
+--------------------------
+
+// how to merge branches
+// first switch to the main branch
+// then type this command
+// git merge <branch-name>
 
 
 
@@ -107,11 +113,6 @@ hello//
 
 
 
-
-
-// init - used to create a new git repository
-
->> git init
 
 
 
