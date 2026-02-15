@@ -87,6 +87,10 @@ hello//
 
 // git branch is used to know how many branches are there in the repository
 
+// to switch between branches use
+// git switch <branch-name> or
+// git checkout <branch-name>
+
 
 
 
