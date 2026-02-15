@@ -108,8 +108,8 @@ hello//
 // git merge <branch-name>
 
 
-
-
+// last push in repository
+// git push origin main
 
 
 
