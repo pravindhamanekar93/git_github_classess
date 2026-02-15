@@ -76,6 +76,18 @@ hello//
 // push
 
 
+-----------------------------------
+
+// branch - used to create a new branch
+// there are 3 types to create branches 
+
+// 1. git checkout -b <branch-name>
+// 2. git branch <branch-name>
+// 3. git switch -c <branch-name> # latest versio 
+
+// git branch is used to know how many branches are there in the repository
+
+
 
 
 
