@@ -67,7 +67,7 @@ hello//
 
 -----------------------------------
 
-// how to push local repository to github 
+
 
 // git tag means versioning of the repository
 // git tag -a v1.0 -m "version 1.0
