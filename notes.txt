@@ -113,6 +113,11 @@ hello//
 
 
 
+---------------------------------------------------
+
+// git remote -v means to verify the repo
+
+// git commit -a -m "commited" - commit all changes
 
 
 
