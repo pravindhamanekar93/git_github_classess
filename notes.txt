@@ -130,3 +130,30 @@ pull command - used to download changes from the remote repository to local repo
 
 
 -- merge conflicts comming
+
+
+------------------------------
+
+git branchinga and merging
+
+// create a new branch
+// add contents
+// push to new created branch
+
+// diff between two branches
+>> git diff main
+
+// merge two barnches
+>> git merge branch_name
+
+or create a pull request through github website
+next
+write this command >> git pull origin main 
+to fecth and download contents from a remote repo to local\repo
+
+
+
+/////////// merge conflicts
+an event that takes place when git is unable to automatically resolved differences in code between two commits
+
+
